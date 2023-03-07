@@ -1,0 +1,58 @@
+{
+  "item.projectarsenal.aa12": "AA-12",
+  "item.projectarsenal.auto9": "Auto 9",
+  "item.projectarsenal.desert_eagle": "Desert Eagle",
+  "item.projectarsenal.dp27": "DP-27",
+  "item.projectarsenal.golden_hawk": "Golden Hawk",
+  "item.projectarsenal.m249": "M249",
+  "item.projectarsenal.maxim9": "Maxim 9",
+  "item.projectarsenal.mossou": "Двухствольное ружьё",
+  "item.projectarsenal.mp5a4": "MP5A4",
+  "item.projectarsenal.val": "АС-ВАЛ",
+  "item.projectarsenal.shrike": "Shrike",
+  "item.projectarsenal.p250": "P250",
+  "item.projectarsenal.markxix": "Классический Mark XIX",
+  "item.projectarsenal.glock21": "Glock 21",
+  "item.projectarsenal.m1911": "M1911A1",
+  "item.projectarsenal.prismatic": "AF2011A1",
+  "item.projectarsenal.vector": "Vector",
+  "item.projectarsenal.cz75": "CZ-75 'Diamondback'",
+  "item.projectarsenal.desert_eagle_classic": "Классический Desert Eagle",
+  "item.projectarsenal.m9": "M9",
+  "item.projectarsenal.scarh": "SCAR-H",
+  "item.projectarsenal.p90": "P90",
+
+  "item.projectarsenal.special_muzzle_break": "Спец-дульный тормоз",
+  "item.projectarsenal.r2_suppressor": "Глушитель R2",
+
+  "item.projectarsenal.skeletongrip": "Скилетная Ручка",
+  "item.projectarsenal.verticalgrip": "Вертикальная Ручка",
+
+  "subtitle.projectarsenal.regular_fire": "Стрельба",
+  "subtitle.projectarsenal.suppressed_fire": "Тихая стрельба",
+  "subtitle.projectarsenal.enchanted_fire": "Усиленная стрельба",
+  "subtitle.projectarsenal.switch_fire_mode": "Смена режима стрельбы",
+  "subtitle.projectarsenal.gunfire_blocked": "Стрельба заблокирована",
+
+  "info.projectarsenal.reload_amount": "Количество патронов за перезарядку: %s",
+  "info.projectarsenal.fire_rate": "Скорость стрельбы: %s",
+  "info.projectarsenal.fire_mode": "Режим стрельбы: %s",
+  "info.projectarsenal.fire_mode.semi_auto": "Полу-Автомат",
+  "info.projectarsenal.fire_mode.full_auto": "Автомат",
+  "info.projectarsenal.fire_mode.burst": "Очередь",
+  "info.projectarsenal.fire_mode.safety": "Предохранитель",
+  "info.projectarsenal.projectile_speed": "Скорость патрона: %s",
+  "info.projectarsenal.projectile_spread": "Разброс при стрельбе: %s",
+  "info.projectarsenal.non_dyeable": "Это оружие не может быть покрашено",
+  "info.projectarsenal.switch_fire_mode": "Нажмите %s чтобы сменить режим стрельбы",
+
+  "container.projectarsenal.arsenal_workbench": "Арсенальный верстак",
+
+  "gui.projectarsenal.arsenal_workbench.show_assemble": "Показать сборку",
+
+  "key.categories.projectarsenal": "Project Arsenal",
+
+  "key.projectarsenal.select_fire_mode": "Выбрать следующий режим",
+
+  "itemGroup.projectarsenal": "Project Arsenal"
+}

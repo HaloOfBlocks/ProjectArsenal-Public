@@ -1,0 +1,64 @@
+{
+  "item.projectarsenal.aa12": "AA-12",
+  "item.projectarsenal.auto9": "Auto 9",
+  "item.projectarsenal.desert_eagle": "Desert Eagle",
+  "item.projectarsenal.dp27": "DP-27",
+  "item.projectarsenal.golden_hawk": "Golden Hawk",
+  "item.projectarsenal.m249": "M249",
+  "item.projectarsenal.maxim9": "Maxim 9",
+  "item.projectarsenal.mossou": "Over/Under DB Shotgun",
+  "item.projectarsenal.mp5a4": "MP5A4",
+  "item.projectarsenal.val": "Val",
+  "item.projectarsenal.shrike": "Shrike",
+  "item.projectarsenal.p250": "P250",
+  "item.projectarsenal.markxix": "Classic Mark XIX",
+  "item.projectarsenal.glock21": "Glock 21",
+  "item.projectarsenal.m1911": "M1911A1",
+  "item.projectarsenal.prismatic": "AF2011A1",
+  "item.projectarsenal.vector": "Vector",
+  "item.projectarsenal.cz75": "CZ-75 'Diamondback'",
+  "item.projectarsenal.desert_eagle_classic": "Classic Desert Eagle",
+  "item.projectarsenal.m9": "M9",
+  "item.projectarsenal.scarh": "SCAR-H",
+  "item.projectarsenal.p90": "P90",
+  "item.projectarsenal.ar15_classic": "AR-15 Classic",
+  "item.projectarsenal.aug_a3c": "AUG A3-XS",
+  "item.projectarsenal.famas": "FAMAS F1",
+  "item.projectarsenal.mp1911": "MP1911",
+  "item.projectarsenal.unica_m6": "Unica M6",
+
+
+  "item.projectarsenal.special_muzzle_break": "Special Muzzle Break",
+  "item.projectarsenal.r2_suppressor": "R2 Suppressor",
+
+  "item.projectarsenal.skeletongrip": "Skeleton Grip",
+  "item.projectarsenal.verticalgrip": "Vertical Grip",
+
+  "subtitle.projectarsenal.regular_fire": "Gunfire",
+  "subtitle.projectarsenal.suppressed_fire": "Silenced gunfire",
+  "subtitle.projectarsenal.enchanted_fire": "Enchanted gunfire",
+  "subtitle.projectarsenal.switch_fire_mode": "Switching Fire Mode",
+  "subtitle.projectarsenal.gunfire_blocked": "Gunfire blocked",
+
+  "info.projectarsenal.reload_amount": "Reload Amount: %s",
+  "info.projectarsenal.fire_rate": "Fire Rate: %s",
+  "info.projectarsenal.fire_mode": "Fire Mode: %s",
+  "info.projectarsenal.fire_mode.semi_auto": "Semi-Automatic",
+  "info.projectarsenal.fire_mode.full_auto": "Full-Automatic",
+  "info.projectarsenal.fire_mode.burst": "Burst",
+  "info.projectarsenal.fire_mode.safety": "Safety",
+  "info.projectarsenal.projectile_speed": "Projectile Speed: %s",
+  "info.projectarsenal.projectile_spread": "Projectile Spread: %s",
+  "info.projectarsenal.non_dyeable": "This gun cannot be dyed",
+  "info.projectarsenal.switch_fire_mode": "Press %s in-game to switch Fire Mode",
+
+  "container.projectarsenal.arsenal_workbench": "Arsenal Workbench",
+
+  "gui.projectarsenal.arsenal_workbench.show_assemble": "Show Assemble",
+
+  "key.categories.projectarsenal": "Project Arsenal",
+
+  "key.projectarsenal.select_fire_mode": "Select next Fire Mode",
+
+  "itemGroup.projectarsenal": "Project Arsenal"
+}
