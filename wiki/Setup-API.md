@@ -15,7 +15,7 @@ repositories {
 ````
 
 #### Step 2: Add the API as a dependency
-To make sure the Project Arsenal's API will **only be available at compilation**, and not while running the game, we'll be using Gradle's [``compileOnly``](https://docs.gradle.org/current/userguide/declaring_dependencies.html) for this:
+To make sure Project Arsenal's API will **only be available at compilation**, and not while running the game, we'll be using Gradle's [``compileOnly``](https://docs.gradle.org/current/userguide/declaring_dependencies.html) for this:
 ````gradle
 dependencies {
     /* Minecraft dependency here */
@@ -46,7 +46,7 @@ An optional dependency for Project Arsenal can be defined (in the ``mods.toml``)
     side="BOTH"
 ````
 
-> **Tip:** You can tell users of your mod that there's Project Arsenal integration simply by adding Project Arsenal as an "Optional dependency" on CurseForge.
+> **Tip:** You can tell users of your mod that there's Project Arsenal integration simply by adding [Project Arsenal](https://www.curseforge.com/minecraft/mc-mods/project-arsenal) as an "Optional dependency" on CurseForge.
 
 #### Step 4: Add main mod jar for testing (OPTIONAL!)
 You can add Project Arsenal's main jar **for testing** to your development environment as well:
@@ -60,7 +60,7 @@ dependencies {
 ````
 
 > It is recommended to only add Project Arsenal's main jar as ``runtimeOnly`` dependency, and to only use it for testing out the features.
-> After testing it is better to remove the main jar again.
+> After testing it is better to **remove the main jar** again.
 
 ***
 
