@@ -4,11 +4,13 @@
   "item.projectarsenal.desert_eagle": "Desert Eagle",
   "item.projectarsenal.dp27": "DP-27",
   "item.projectarsenal.golden_hawk": "Golden Hawk",
+  "item.projectarsenal.m231": "M231",
   "item.projectarsenal.m249": "M249",
   "item.projectarsenal.maxim9": "Maxim 9",
   "item.projectarsenal.mossou": "Over/Under DB Shotgun",
   "item.projectarsenal.mp5a4": "MP5A4",
   "item.projectarsenal.val": "Val",
+  "item.projectarsenal.arx160": "ARX-160",
   "item.projectarsenal.shrike": "Shrike",
   "item.projectarsenal.p250": "P250",
   "item.projectarsenal.markxix": "Classic Mark XIX",
@@ -22,11 +24,12 @@
   "item.projectarsenal.scarh": "SCAR-H",
   "item.projectarsenal.p90": "P90",
   "item.projectarsenal.ar15_classic": "AR-15 Classic",
+  "item.projectarsenal.akx": "AKX",
+  "item.projectarsenal.akx_custom": "AKX Custom",
   "item.projectarsenal.aug_a3c": "AUG A3-XS",
   "item.projectarsenal.famas": "FAMAS F1",
   "item.projectarsenal.mp1911": "MP1911",
   "item.projectarsenal.unica_m6": "Unica M6",
-
 
   "item.projectarsenal.special_muzzle_break": "Special Muzzle Break",
   "item.projectarsenal.r2_suppressor": "R2 Suppressor",
@@ -51,6 +54,7 @@
   "info.projectarsenal.projectile_spread": "Projectile Spread: %s",
   "info.projectarsenal.non_dyeable": "This gun cannot be dyed",
   "info.projectarsenal.switch_fire_mode": "Press %s in-game to switch Fire Mode",
+  "info.projectarsenal.reserve_ammo": "Reserve Ammo: %s",
 
   "container.projectarsenal.arsenal_workbench": "Arsenal Workbench",
 

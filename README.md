@@ -6,3 +6,10 @@
 
 # Project Arsenal
 Public repository for Project Arsenal: Expansive add-on to MrCrayfish's Gun Mod.
+
+### Links
+* [Issue tracker](https://www.github.com/HaloOfBlocks/ProjectArsenal-Public/issues)
+* [Discussions](https://www.github.com/HaloOfBlocks/ProjectArsenal-Public/discussions)
+* [Wiki](https://www.github.com/HaloOfBlocks/ProjectArsenal-Public/wiki)
+* [Discord](https://discord.com/invite/47c9FG7fdW)
+* [Twitter](https://twitter.com/HaloOfBlocks)
